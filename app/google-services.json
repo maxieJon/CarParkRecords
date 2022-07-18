@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036689006140",
+    "project_id": "carpark-records",
+    "storage_bucket": "carpark-records.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036689006140:android:bbe4a6dd949c2ca221ed39",
+        "android_client_info": {
+          "package_name": "com.example.carpark_records"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036689006140-fbb0qg9d9ifk4mnrcmjvi071enj60j1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbMfB3Y7TAtEb18F7wmsdnCrBf5uE0G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036689006140-fbb0qg9d9ifk4mnrcmjvi071enj60j1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
